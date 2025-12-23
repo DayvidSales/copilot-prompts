@@ -19,12 +19,12 @@ Receber as informações do Agent 1 e gerar um plano completo de estudos com:
 ## 📥 DADOS QUE VOCÊ RECEBE
 
 O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+- CARREIRA_ESCOLHIDA: Engenheiro de Machine Learning
+- HORAS_SEMANA: 10
+- EXPERIENCIA: (zero)
+- OBJETIVO: transição de carreira
+- PREFERENCIA:dados/código
+- INTERESSES: Inteligência Artificial (com interesse extra em apps)
 
 
 ## 🎬 INICIAR CONVERSA
@@ -179,3 +179,157 @@ OBJETIVO:
 - Transição: destacar transferência de skills
 - Crescimento: focar em skills avançadas
 \
+"Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu Engenheiro de Machine Learning e tem 10 horas por semana para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado..."
+
+🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Engenheiro(a) de Machine Learning:
+
+Coletar e preparar dados para treinamento de modelos
+
+Implementar algoritmos de aprendizado de máquina em código
+
+Testar e validar modelos com métricas de performance
+
+Colaborar com equipes de dados e desenvolvimento para integrar modelos em aplicações
+
+Documentar processos e otimizar pipelines de ML
+
+🧠 MAPA DE SKILLS
+
+CORE SKILLS (essenciais):
+
+Programação em Python
+
+Estatística e Probabilidade
+
+Fundamentos de Machine Learning
+
+NICE-TO-HAVE (complementares):
+
+Conhecimentos básicos de Deep Learning
+
+Noções de Deploy e MLOps
+
+FERRAMENTAS E TECNOLOGIAS:
+
+Scikit-learn
+
+TensorFlow / PyTorch
+
+Jupyter Notebook
+
+📅 ROADMAP DE 90 DIAS
+
+ADAPTADO PARA: 10 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+
+SEMANA 1-2:
+
+Revisar lógica de programação em Python
+
+Estudar estatística básica (média, variância, distribuições)
+
+SEMANA 3-4:
+
+Introdução a Machine Learning (conceitos de regressão e classificação)
+
+Praticar com datasets simples no Scikit-learn
+
+MÊS 2 - PRÁTICA
+
+SEMANA 5-6:
+
+Implementar modelos de regressão linear e logística
+
+Explorar métricas de avaliação (accuracy, precision, recall, F1-score)
+
+SEMANA 7-8:
+
+Introdução a redes neurais com PyTorch ou TensorFlow
+
+Criar um modelo simples de classificação de imagens ou textos
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+SEMANA 9-10:
+
+Desenvolver projeto completo de ML (pipeline de dados + modelo + avaliação)
+
+Documentar código e resultados
+
+SEMANA 11-12:
+
+Preparar apresentação do projeto para portfólio
+
+Simular entrevistas técnicas e revisar conceitos
+
+🚀 PROJETO DE PORTFÓLIO
+
+PROJETO: Classificador de Sentimentos em Reviews de Apps
+
+O QUE FAZER:  
+Construir um modelo que analisa comentários de usuários em aplicativos e classifica como positivos ou negativos.
+
+ENTREGÁVEIS:
+
+Dataset tratado e limpo
+
+Modelo treinado e avaliado
+
+Notebook/documentação explicando o processo
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Accuracy acima de 80%
+
+Código organizado e comentado
+
+Visualização dos resultados (gráficos de métricas)
+
+DICA: Use datasets públicos (ex: reviews da Play Store ou IMDb) e foque em clareza na apresentação.
+
+💬 ROTEIRO DE ENTREVISTAS
+
+PERGUNTA 1: O que é overfitting?
+COMO RESPONDER: Explique que é quando o modelo aprende demais os dados de treino e não generaliza bem. Dê exemplo prático.
+
+PERGUNTA 2: Qual a diferença entre regressão e classificação?
+COMO RESPONDER: Regressão prevê valores contínuos, classificação prevê categorias. Cite exemplos simples.
+
+PERGUNTA 3: Quais métricas você usaria para avaliar um modelo de classificação?
+COMO RESPONDER: Accuracy, precision, recall, F1-score. Explique quando cada uma é mais relevante.
+
+PERGUNTA 4: Como você trataria dados faltantes em um dataset?
+COMO RESPONDER: Citar técnicas como remoção, imputação por média/mediana ou uso de modelos específicos.
+
+PERGUNTA 5: Explique um projeto de ML que você fez.
+COMO RESPONDER: Estruture em problema → solução → resultados → aprendizados.
+
+🎓 TRILHA DIO RECOMENDADA
+
+TRILHA: Bootcamp Ciência de Dados com Python
+
+POR QUE ESSA TRILHA:  
+Ela cobre fundamentos de Python, estatística, bibliotecas de ML e projetos práticos, conectando diretamente com a carreira de Engenheiro de Machine Learning.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Bootcamp Ciência de Dados com Python"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+Quer que eu detalhe mais os recursos práticos (livros, cursos, datasets) para cada etapa do roadmap?
